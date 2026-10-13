@@ -1,7 +1,12 @@
 ![Valkyrien Pirates](https://cdn.modrinth.com/data/jv8hXuHT/images/d66f02a291bb47729754697b556ad481f9f07ad9.jpeg)
 
 
-# Valkyrien Pirates
+# Easter Pirates
+
+Experimental fork of Valkyrien Pirates. Original credits and MIT license are preserved.
+The upstream Minecraft 1.20.1 code is **not** a working Minecraft 26.2 release.
+Our target is roaming hostile NPC crews and capture-only large vessels; see the Easter Skies fleet design.
+The original feature description below documents upstream behavior.
 This mod adds pirate ships to your world which sail of their own accord. These ships come with a fearsome crew, and cannons which will shoot at your ship. Killing the pirates will disarm the cannons, leaving the ship and its booty free for you to plunder!!
 
 <img src="https://cdn.modrinth.com/data/jv8hXuHT/images/61390e97a94c08814abce579afc76a209fbfd843.png" alt="drawing" width="400"/>

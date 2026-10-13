@@ -1,0 +1,13 @@
+{
+  "brand": "Easter Pirates",
+  "upstream": "https://github.com/JSJBDEV/pirates",
+  "upstream_branch": "1.20-architectuary",
+  "upstream_commit": "34d80bab43226bc64967fac10fb99adf1c4de98b",
+  "license": "MIT",
+  "license_sha256": "c8e76b9d36c7281356bda315597b55054403d934dab709c242eb0b6195747bdc",
+  "technical_mod_id": "pirates",
+  "baseline_minecraft": "1.20.1",
+  "target_minecraft": "26.2",
+  "runtime_status": "experimental-source-foundation-not-deployed",
+  "shippy_status": "retained-separate-unmodified-dependency"
+}
